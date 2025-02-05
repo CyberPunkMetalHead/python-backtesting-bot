@@ -1,4 +1,4 @@
-# Python Trading Backtesting using Backtester and CoinGecko
+# Python Backtesting using Backtester and CoinGecko
 
 This is a simple project that shows how to backtest various trading strategies using the CoinGecko API and the Backtester.py library.
 
