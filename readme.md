@@ -7,3 +7,8 @@ This is a simple project that shows how to backtest various trading strategies u
 2. `pip install -r requirements.txt`
 3. Manually download and install a [ta-lib](https://github.com/cgohlke/talib-build/releases) version that matches your OS, CPU architecture, and Python version. 
 4. Drop the file in your project root and install it with pip. Ie: pip install ta_lib-0.6.0-cp311-cp311-win_amd64.whl
+
+
+### Looking For a no-code solution?
+
+Check out crypto trading bot platform [Aesir](https://aesircrypto.com).
